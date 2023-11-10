@@ -1,0 +1,9 @@
+.topic_percent {
+  display: flex;
+  align-items: center;
+}
+
+.last_part {
+  display: flex;
+  justify-content: space-between;
+}
