@@ -1,7 +1,4 @@
 import React from "react";
-import Navbar from "./components/navbar";
-import CardSmall from "./components/CardSmall";
-import Grid from "@mui/material/Unstable_Grid2";
 import "./App.css";
 import Dashboard from "./pages/Dashboard";
 
