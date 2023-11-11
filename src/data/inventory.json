@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "product": "Lay's Potato Chips",
+    "category": "Snack",
+    "remain": 27,
+    "status": "In Stock"
+  },
+  {
+    "id": 2,
+    "product": "Doritos Nacho Cheese",
+    "category": "Snack",
+    "remain": 35,
+    "status": "In Stock"
+  },
+  {
+    "id": 3,
+    "product": "Coca-Cola",
+    "category": "Beverage",
+    "remain": 42,
+    "status": "In Stock"
+  },
+  {
+    "id": 4,
+    "product": "M&M's Chocolate",
+    "category": "Candy",
+    "remain": 18,
+    "status": "In Stock"
+  },
+  {
+    "id": 5,
+    "product": "Pringles Sour Cream & Onion",
+    "category": "Snack",
+    "remain": 3,
+    "status": "Low Stock"
+  },
+  {
+    "id": 6,
+    "product": "Pepsi",
+    "category": "Beverage",
+    "remain": 30,
+    "status": "In Stock"
+  },
+  {
+    "id": 7,
+    "product": "Kit Kat",
+    "category": "Candy",
+    "remain": 15,
+    "status": "In Stock"
+  },
+  {
+    "id": 8,
+    "product": "Ruffles Cheddar & Sour Cream",
+    "category": "Snack",
+    "remain": 22,
+    "status": "In Stock"
+  },
+  {
+    "id": 9,
+    "product": "Mountain Dew",
+    "category": "Beverage",
+    "remain": 38,
+    "status": "In Stock"
+  },
+  {
+    "id": 10,
+    "product": "Snickers",
+    "category": "Candy",
+    "remain": 20,
+    "status": "In Stock"
+  },
+  {
+    "id": 11,
+    "product": "Cheetos Crunchy",
+    "category": "Snack",
+    "remain": 3,
+    "status": "Low Stock"
+  },
+  {
+    "id": 12,
+    "product": "Dr. Pepper",
+    "category": "Beverage",
+    "remain": 32,
+    "status": "In Stock"
+  },
+  {
+    "id": 13,
+    "product": "Twix",
+    "category": "Candy",
+    "remain": 17,
+    "status": "In Stock"
+  },
+  {
+    "id": 14,
+    "product": "Doritos Cool Ranch",
+    "category": "Snack",
+    "remain": 25,
+    "status": "In Stock"
+  },
+  {
+    "id": 15,
+    "product": "Sprite",
+    "category": "Beverage",
+    "remain": 40,
+    "status": "In Stock"
+  },
+  {
+    "id": 16,
+    "product": "Hershey's Milk Chocolate",
+    "category": "Candy",
+    "remain": 1,
+    "status": "Low Stock"
+  },
+  {
+    "id": 17,
+    "product": "Lay's Classic Potato Chips",
+    "category": "Snack",
+    "remain": 33,
+    "status": "In Stock"
+  },
+  {
+    "id": 18,
+    "product": "Coca-Cola Zero Sugar",
+    "category": "Beverage",
+    "remain": 36,
+    "status": "In Stock"
+  },
+  {
+    "id": 19,
+    "product": "Milky Way",
+    "category": "Candy",
+    "remain": 16,
+    "status": "In Stock"
+  },
+  {
+    "id": 20,
+    "product": "Pringles Original",
+    "category": "Snack",
+    "remain": 0,
+    "status": "Out of Stock"
+  },
+  {
+    "id": 21,
+    "product": "Ritz Crackers",
+    "category": "Snack",
+    "remain": 26,
+    "status": "In Stock"
+  },
+  {
+    "id": 22,
+    "product": "Pepsi Zero Sugar",
+    "category": "Beverage",
+    "remain": 31,
+    "status": "In Stock"
+  },
+  {
+    "id": 23,
+    "product": "Haribo Gold-Bears",
+    "category": "Candy",
+    "remain": 21,
+    "status": "In Stock"
+  },
+  {
+    "id": 24,
+    "product": "SunChips Harvest Cheddar",
+    "category": "Snack",
+    "remain": 29,
+    "status": "In Stock"
+  },
+  {
+    "id": 25,
+    "product": "Coca-Cola Vanilla",
+    "category": "Beverage",
+    "remain": 5,
+    "status": "Low Stock"
+  },
+  {
+    "id": 26,
+    "product": "Hershey's Cookies 'n' Creme",
+    "category": "Candy",
+    "remain": 18,
+    "status": "In Stock"
+  },
+  {
+    "id": 27,
+    "product": "Doritos Spicy Nacho",
+    "category": "Snack",
+    "remain": 27,
+    "status": "In Stock"
+  },
+  {
+    "id": 28,
+    "product": "Dr. Pepper Cherry",
+    "category": "Beverage",
+    "remain": 39,
+    "status": "In Stock"
+  },
+  {
+    "id": 29,
+    "product": "Skittles Original",
+    "category": "Candy",
+    "remain": 22,
+    "status": "In Stock"
+  },
+  {
+    "id": 30,
+    "product": "Cheez-It Original",
+    "category": "Snack",
+    "remain": 30,
+    "status": "In Stock"
+  },
+  {
+    "id": 31,
+    "product": "Mountain Dew Code Red",
+    "category": "Beverage",
+    "remain": 37,
+    "status": "In Stock"
+  },
+  {
+    "id": 32,
+    "product": "Milka Chocolate",
+    "category": "Candy",
+    "remain": 0,
+    "status": "Out of Stock"
+  },
+  {
+    "id": 33,
+    "product": "Lay's Sour Cream & Onion",
+    "category": "Snack",
+    "remain": 24,
+    "status": "In Stock"
+  },
+  {
+    "id": 34,
+    "product": "7UP",
+    "category": "Beverage",
+    "remain": 41,
+    "status": "In Stock"
+  },
+  {
+    "id": 35,
+    "product": "Reese's Peanut Butter Cups",
+    "category": "Candy",
+    "remain": 16,
+    "status": "In Stock"
+  },
+  {
+    "id": 36,
+    "product": "Popcorn",
+    "category": "Snack",
+    "remain": 23,
+    "status": "In Stock"
+  },
+  {
+    "id": 37,
+    "product": "Sprite Zero Sugar",
+    "category": "Beverage",
+    "remain": 2,
+    "status": "Low Stock"
+  },
+  {
+    "id": 38,
+    "product": "Hershey's Almond Chocolate Bar",
+    "category": "Candy",
+    "remain": 20,
+    "status": "In Stock"
+  },
+  {
+    "id": 39,
+    "product": "Tostitos Scoops",
+    "category": "Snack",
+    "remain": 28,
+    "status": "In Stock"
+  },
+  {
+    "id": 40,
+    "product": "Mountain Dew Voltage",
+    "category": "Beverage",
+    "remain": 0,
+    "status": "Out of Stock"
+  }
+]

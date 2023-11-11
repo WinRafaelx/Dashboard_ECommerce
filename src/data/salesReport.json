@@ -1,0 +1,351 @@
+[
+  {
+    "id": 1,
+    "date": "2017-01-01",
+    "product": "Doritos Nacho Cheese",
+    "amount": 3,
+    "price": 105
+  },
+  {
+    "id": 2,
+    "date": "2017-02-03",
+    "product": "Coca-Cola",
+    "amount": 5,
+    "price": 90
+  },
+  {
+    "id": 3,
+    "date": "2017-03-15",
+    "product": "Kit Kat",
+    "amount": 1,
+    "price": 25
+  },
+  {
+    "id": 4,
+    "date": "2017-04-22",
+    "product": "Snickers",
+    "amount": 4,
+    "price": 80
+  },
+  {
+    "id": 5,
+    "date": "2017-05-10",
+    "product": "Dr. Pepper",
+    "amount": 2,
+    "price": 120
+  },
+  {
+    "id": 6,
+    "date": "2017-06-18",
+    "product": "Twix",
+    "amount": 3,
+    "price": 60
+  },
+  {
+    "id": 7,
+    "date": "2017-07-05",
+    "product": "Ruffles Cheddar & Sour Cream",
+    "amount": 1,
+    "price": 50
+  },
+  {
+    "id": 8,
+    "date": "2017-08-12",
+    "product": "Pepsi",
+    "amount": 4,
+    "price": 100
+  },
+  {
+    "id": 9,
+    "date": "2017-09-28",
+    "product": "M&M's Chocolate",
+    "amount": 2,
+    "price": 40
+  },
+  {
+    "id": 10,
+    "date": "2017-10-09",
+    "product": "Milky Way",
+    "amount": 1,
+    "price": 30
+  },
+  {
+    "id": 11,
+    "date": "2017-11-20",
+    "product": "Cheetos Crunchy",
+    "amount": 3,
+    "price": 75
+  },
+  {
+    "id": 12,
+    "date": "2017-12-04",
+    "product": "Hershey's Milk Chocolate",
+    "amount": 2,
+    "price": 50
+  },
+  {
+    "id": 13,
+    "date": "2018-01-15",
+    "product": "Doritos Cool Ranch",
+    "amount": 4,
+    "price": 100
+  },
+  {
+    "id": 14,
+    "date": "2018-02-28",
+    "product": "Sprite",
+    "amount": 5,
+    "price": 120
+  },
+  {
+    "id": 15,
+    "date": "2018-03-09",
+    "product": "Reese's Peanut Butter Cups",
+    "amount": 2,
+    "price": 40
+  },
+  {
+    "id": 16,
+    "date": "2018-04-17",
+    "product": "Lay's Classic Potato Chips",
+    "amount": 3,
+    "price": 90
+  },
+  {
+    "id": 17,
+    "date": "2018-05-30",
+    "product": "Coca-Cola Zero Sugar",
+    "amount": 4,
+    "price": 80
+  },
+  {
+    "id": 18,
+    "date": "2018-06-12",
+    "product": "Milka Chocolate",
+    "amount": 2,
+    "price": 50
+  },
+  {
+    "id": 19,
+    "date": "2018-07-25",
+    "product": "Lay's Sour Cream & Onion",
+    "amount": 3,
+    "price": 75
+  },
+  {
+    "id": 20,
+    "date": "2018-08-07",
+    "product": "7UP",
+    "amount": 1,
+    "price": 30
+  },
+  {
+    "id": 21,
+    "date": "2018-09-18",
+    "product": "Haribo Gold-Bears",
+    "amount": 2,
+    "price": 20
+  },
+  {
+    "id": 22,
+    "date": "2018-10-02",
+    "product": "SunChips Harvest Cheddar",
+    "amount": 3,
+    "price": 45
+  },
+  {
+    "id": 23,
+    "date": "2018-11-14",
+    "product": "Coca-Cola Vanilla",
+    "amount": 4,
+    "price": 60
+  },
+  {
+    "id": 24,
+    "date": "2018-12-27",
+    "product": "Hershey's Cookies 'n' Creme",
+    "amount": 1,
+    "price": 25
+  },
+  {
+    "id": 25,
+    "date": "2019-01-10",
+    "product": "Doritos Spicy Nacho",
+    "amount": 5,
+    "price": 75
+  },
+  {
+    "id": 26,
+    "date": "2019-02-22",
+    "product": "Dr. Pepper Cherry",
+    "amount": 3,
+    "price": 45
+  },
+  {
+    "id": 27,
+    "date": "2019-03-08",
+    "product": "Skittles Original",
+    "amount": 2,
+    "price": 30
+  },
+  {
+    "id": 28,
+    "date": "2019-04-19",
+    "product": "Cheez-It Original",
+    "amount": 4,
+    "price": 40
+  },
+  {
+    "id": 29,
+    "date": "2019-05-03",
+    "product": "Mountain Dew Code Red",
+    "amount": 1,
+    "price": 30
+  },
+  {
+    "id": 30,
+    "date": "2019-06-15",
+    "product": "Milka Chocolate",
+    "amount": 2,
+    "price": 20
+  },
+  {
+    "id": 31,
+    "date": "2019-07-01",
+    "product": "Lay's Sour Cream & Onion",
+    "amount": 3,
+    "price": 45
+  },
+  {
+    "id": 32,
+    "date": "2019-08-12",
+    "product": "7UP",
+    "amount": 2,
+    "price": 60
+  },
+  {
+    "id": 33,
+    "date": "2019-09-24",
+    "product": "Hershey's Almond Chocolate Bar",
+    "amount": 1,
+    "price": 25
+  },
+  {
+    "id": 34,
+    "date": "2019-10-05",
+    "product": "Tostitos Scoops",
+    "amount": 4,
+    "price": 40
+  },
+  {
+    "id": 35,
+    "date": "2019-11-17",
+    "product": "Mountain Dew Voltage",
+    "amount": 3,
+    "price": 45
+  },
+  {
+    "id": 36,
+    "date": "2019-12-01",
+    "product": "Ritz Crackers",
+    "amount": 2,
+    "price": 20
+  },
+  {
+    "id": 37,
+    "date": "2020-01-14",
+    "product": "Pepsi Zero Sugar",
+    "amount": 5,
+    "price": 50
+  },
+  {
+    "id": 38,
+    "date": "2020-02-26",
+    "product": "Haribo Gold-Bears",
+    "amount": 3,
+    "price": 30
+  },
+  {
+    "id": 39,
+    "date": "2020-03-10",
+    "product": "SunChips Harvest Cheddar",
+    "amount": 2,
+    "price": 30
+  },
+  {
+    "id": 40,
+    "date": "2020-04-22",
+    "product": "Coca-Cola Vanilla",
+    "amount": 4,
+    "price": 40
+  },{
+    "id": 41,
+    "date": "2020-05-05",
+    "product": "Hershey's Cookies 'n' Creme",
+    "amount": 1,
+    "price": 25
+  },
+  {
+    "id": 42,
+    "date": "2020-06-17",
+    "product": "Doritos Spicy Nacho",
+    "amount": 3,
+    "price": 45
+  },
+  {
+    "id": 43,
+    "date": "2020-07-01",
+    "product": "Dr. Pepper Cherry",
+    "amount": 2,
+    "price": 30
+  },
+  {
+    "id": 44,
+    "date": "2020-08-12",
+    "product": "Skittles Original",
+    "amount": 4,
+    "price": 40
+  },
+  {
+    "id": 45,
+    "date": "2020-09-24",
+    "product": "Cheez-It Original",
+    "amount": 1,
+    "price": 15
+  },
+  {
+    "id": 46,
+    "date": "2020-10-06",
+    "product": "Mountain Dew Code Red",
+    "amount": 5,
+    "price": 60
+  },
+  {
+    "id": 47,
+    "date": "2020-11-18",
+    "product": "Milka Chocolate",
+    "amount": 3,
+    "price": 30
+  },
+  {
+    "id": 48,
+    "date": "2020-12-01",
+    "product": "Lay's Sour Cream & Onion",
+    "amount": 2,
+    "price": 25
+  },
+  {
+    "id": 49,
+    "date": "2021-01-14",
+    "product": "7UP",
+    "amount": 4,
+    "price": 40
+  },
+  {
+    "id": 50,
+    "date": "2021-02-26",
+    "product": "Hershey's Almond Chocolate Bar",
+    "amount": 1,
+    "price": 25
+  }
+]

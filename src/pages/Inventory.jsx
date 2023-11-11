@@ -18,9 +18,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import { mainListItems } from '../components/listItems';
-import Chart from '../components/Chart';
-import Deposits from '../components/Deposits';
-import Orders from '../components/Orders';
+import InventoryTable from '../components/InventoryTable';
 
 function Copyright(props) {
   return (
@@ -160,7 +158,11 @@ export default function Inventory() {
         >
           <Toolbar />
           <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
-            
+          <Grid container spacing={2}>
+              <Grid item xs={12} md={12}> 
+                <InventoryTable />
+              </Grid>
+            </Grid>
               
             <Copyright sx={{ pt: 4 }} />
           </Container>

@@ -5,33 +5,31 @@ import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
-import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
-import data from '../data/customer.json'
+import data from '../data/inventory.json'
 
 const columns = [
   { id: 'id', label: 'Id', minWidth: 70 },
-  { id: 'name', label: 'Name', minWidth: 150 },
+  { id: 'product', label: 'Product Name', minWidth: 130 },
   {
-    id: 'email',
-    label: 'Email',
-    minWidth: 230,
+    id: 'category',
+    label: 'Category',
+    minWidth: 100,
   },
   {
-    id: 'registrationDate',
-    label: 'Register Date',
-    minWidth: 120,
+    id: 'remain',
+    label: 'Total',
+    minWidth: 80,
   },
   {
-    id: 'totalAmount',
+    id: 'status',
     label: 'Total',
     minWidth: 100,
     align: 'right',
   },
 ];
 
-function CustomerTable() {
-
+function InventoryTable() {
   return (
     <Paper sx={{ width: '100%', overflow: 'hidden' }}>
       <TableContainer>
@@ -73,4 +71,4 @@ function CustomerTable() {
   );
 }
 
-export default CustomerTable
+export default InventoryTable
